@@ -35,12 +35,6 @@ def naming_system
     phylum: {},
     class: {},
    }
-   order = {}
-   family = {
-     genus: {}
-   }
-  species = {nil}
-  }
   # Remember:
   #  Kingdom
   #  Phylum
