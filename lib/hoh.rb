@@ -33,10 +33,10 @@
 def naming_system
   kingdom = {
     phylum: {},
-    class:  {
-    order: {},
-    }
+    class:  {}
   }
+  PORTION_2 = {
+   label: "Order"}
    
   # Remember:
   #  Kingdom
