@@ -32,7 +32,7 @@
 
 def naming_system
   kingdom = {
-    phylum: {},
+    sub_category: "phylum",
     class:  {},
   label: ["Order"]
     
